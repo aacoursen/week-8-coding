@@ -1,0 +1,22 @@
+body {
+    background-color: darkcyan;
+}
+
+h1 {
+    color: gold;
+}
+
+div {
+    background-color: darkcyan; 
+    border-style: solid; 
+    border-color: black; 
+    border-radius: 5px;
+}
+
+.shadow-text {
+    text-shadow: gray 1px 1px;
+}
+
+#large-paragraph {
+    font-size: 20px;
+}
